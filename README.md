@@ -2,5 +2,5 @@
 
 > Status: Em andamento
 ```
-> npm install
+> node app.js
 ```
